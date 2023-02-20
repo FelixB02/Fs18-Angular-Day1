@@ -1,0 +1,21 @@
+#content {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/124/675/original/free-vector-mount-everest-illustration.jpg");
+    background-repeat: repeat;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+#team {
+    border: 1px solid black;
+    width: 80%;
+}
+
+#wrap {
+    display: flex;
+    justify-content: center;
+}
+
+#text {
+    color: white;
+    text-align: center;
+}

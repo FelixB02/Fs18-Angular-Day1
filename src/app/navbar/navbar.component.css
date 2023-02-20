@@ -1,0 +1,21 @@
+#navbar {
+    color: rgb(0, 0, 54.5, 1);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+    position: fixed;
+    width: 100%;
+    font-size: 2.5vh;
+    z-index: 1;
+}
+
+.head {
+    font-size: 4vh;
+    padding-right: 3vh;
+}
+
+.link {
+    padding-top: 1vh;
+    padding-right: 3vh;
+}
