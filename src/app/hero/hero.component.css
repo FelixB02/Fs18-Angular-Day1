@@ -46,9 +46,16 @@
     border-radius: 50%;
     width: 10vh;
     height: 10vh;
+    margin-left: 16.8vh;
+    margin-top: 1.6vh;
+    margin-bottom: 1.6vh;
 }
 
 .icon {
     padding-top: 2vh;
-    padding-left: 1.8vh;
+}
+
+.info {
+    display: flex;
+    text-align: center;
 }
